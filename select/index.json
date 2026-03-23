@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Greatest Love (Live)",
+  "base_artist": "Mosaic MSC",
+  "createdAt": "2026-03-23T12:49:35.735141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Greatest Love - Live",
+      "artist": "Mosaic MSC",
+      "has_synced": false,
+      "path": "select/01_Greatest_Love_-_Live_Mosaic_MSC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Secret Love - Live",
+      "artist": "Freddy Fender",
+      "has_synced": false,
+      "path": "select/02_Secret_Love_-_Live_Freddy_Fender.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make You Feel My Love - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/03_Make_You_Feel_My_Love_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somebody To Love - Live",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_Somebody_To_Love_-_Live_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Modern Love (Live)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/05_Modern_Love_(Live)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soul Love - Live",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Soul_Love_-_Live_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Love (live)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/07_My_Love_(live)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lotta Love - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/08_Lotta_Love_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When You Dance I Can Really Love - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/09_When_You_Dance_I_Can_Really_Love_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Please Accept My Love (live)",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/10_Please_Accept_My_Love_(live)_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy Little Thing Called Love - Live",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_Crazy_Little_Thing_Called_Love_-_Live_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dance Me to the End of Love - Live",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/12_Dance_Me_to_the_End_of_Love_-_Live_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Show Me Love - Live",
+      "artist": "Clean Bandit",
+      "has_synced": true,
+      "path": "select/13_Show_Me_Love_-_Live_Clean_Bandit.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cradle of Love - Live in Nashville",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/14_Cradle_of_Love_-_Live_in_Nashville_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "For Your Love - Live/1995",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/15_For_Your_Love_-_Live_1995_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "For Your Love (Live\u00001995)",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/16_For_Your_Love_(Live\u00001995)_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rocket Love - Live/1995",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/17_Rocket_Love_-_Live_1995_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rocket Love (Live\u00001995)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/18_Rocket_Love_(Live\u00001995)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Look Of Love - Live At Hammersmith Odeon",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/19_The_Look_Of_Love_-_Live_At_Hammersmith_Odeon_ABC.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Look Of Love (Live At Hammersmith Odeon)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/20_The_Look_Of_Love_(Live_At_Hammersmith_Odeon)_ABC.txt"
+    }
+  ]
+}
